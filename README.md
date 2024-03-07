@@ -1,4 +1,5 @@
-# bupin_scanner
+Gupin
+
 
 A new Flutter project.
 
